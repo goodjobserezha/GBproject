@@ -30,6 +30,7 @@ public class HomeWorkApp {
     }
 
 
+
     // Задание 4.
     public static void printColor(){
         int value = 7;
